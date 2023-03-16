@@ -1,7 +1,5 @@
 /**
- * CS6378 Advanced Operating System - Project 3
  * @author William Chang
- * @netid cxc200006
  */
 import java.io.*;
 import java.net.*;
